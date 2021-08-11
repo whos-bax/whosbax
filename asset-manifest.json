@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/whosbax/static/css/main.ff1be279.chunk.css",
-    "main.js": "/whosbax/static/js/main.7ceced4a.chunk.js",
-    "main.js.map": "/whosbax/static/js/main.7ceced4a.chunk.js.map",
+    "main.js": "/whosbax/static/js/main.e383af8e.chunk.js",
+    "main.js.map": "/whosbax/static/js/main.e383af8e.chunk.js.map",
     "runtime-main.js": "/whosbax/static/js/runtime-main.83f0567b.js",
     "runtime-main.js.map": "/whosbax/static/js/runtime-main.83f0567b.js.map",
     "static/css/2.4be38407.chunk.css": "/whosbax/static/css/2.4be38407.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.2ba603c2.chunk.js",
     "static/css/main.ff1be279.chunk.css",
-    "static/js/main.7ceced4a.chunk.js"
+    "static/js/main.e383af8e.chunk.js"
   ]
 }
