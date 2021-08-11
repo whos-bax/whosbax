@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/whos-bax/static/css/main.ff1be279.chunk.css",
+    "main.js": "/whos-bax/static/js/main.d38ba81a.chunk.js",
+    "main.js.map": "/whos-bax/static/js/main.d38ba81a.chunk.js.map",
+    "runtime-main.js": "/whos-bax/static/js/runtime-main.c9716de5.js",
+    "runtime-main.js.map": "/whos-bax/static/js/runtime-main.c9716de5.js.map",
+    "static/css/2.4be38407.chunk.css": "/whos-bax/static/css/2.4be38407.chunk.css",
+    "static/js/2.5fa8997a.chunk.js": "/whos-bax/static/js/2.5fa8997a.chunk.js",
+    "static/js/2.5fa8997a.chunk.js.map": "/whos-bax/static/js/2.5fa8997a.chunk.js.map",
+    "static/js/3.f10a4884.chunk.js": "/whos-bax/static/js/3.f10a4884.chunk.js",
+    "static/js/3.f10a4884.chunk.js.map": "/whos-bax/static/js/3.f10a4884.chunk.js.map",
+    "index.html": "/whos-bax/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/whos-bax/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ff1be279.chunk.css.map": "/whos-bax/static/css/main.ff1be279.chunk.css.map",
+    "static/js/2.5fa8997a.chunk.js.LICENSE.txt": "/whos-bax/static/js/2.5fa8997a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9716de5.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.5fa8997a.chunk.js",
+    "static/css/main.ff1be279.chunk.css",
+    "static/js/main.d38ba81a.chunk.js"
+  ]
+}
