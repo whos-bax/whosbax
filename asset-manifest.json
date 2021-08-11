@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/whosbax/static/css/main.ff1be279.chunk.css",
-    "main.js": "/whosbax/static/js/main.e383af8e.chunk.js",
-    "main.js.map": "/whosbax/static/js/main.e383af8e.chunk.js.map",
+    "main.js": "/whosbax/static/js/main.75f943eb.chunk.js",
+    "main.js.map": "/whosbax/static/js/main.75f943eb.chunk.js.map",
     "runtime-main.js": "/whosbax/static/js/runtime-main.83f0567b.js",
     "runtime-main.js.map": "/whosbax/static/js/runtime-main.83f0567b.js.map",
     "static/css/2.4be38407.chunk.css": "/whosbax/static/css/2.4be38407.chunk.css",
-    "static/js/2.2ba603c2.chunk.js": "/whosbax/static/js/2.2ba603c2.chunk.js",
-    "static/js/2.2ba603c2.chunk.js.map": "/whosbax/static/js/2.2ba603c2.chunk.js.map",
+    "static/js/2.86a8c9ed.chunk.js": "/whosbax/static/js/2.86a8c9ed.chunk.js",
+    "static/js/2.86a8c9ed.chunk.js.map": "/whosbax/static/js/2.86a8c9ed.chunk.js.map",
     "static/js/3.f10a4884.chunk.js": "/whosbax/static/js/3.f10a4884.chunk.js",
     "static/js/3.f10a4884.chunk.js.map": "/whosbax/static/js/3.f10a4884.chunk.js.map",
     "index.html": "/whosbax/index.html",
     "static/css/2.4be38407.chunk.css.map": "/whosbax/static/css/2.4be38407.chunk.css.map",
     "static/css/main.ff1be279.chunk.css.map": "/whosbax/static/css/main.ff1be279.chunk.css.map",
-    "static/js/2.2ba603c2.chunk.js.LICENSE.txt": "/whosbax/static/js/2.2ba603c2.chunk.js.LICENSE.txt"
+    "static/js/2.86a8c9ed.chunk.js.LICENSE.txt": "/whosbax/static/js/2.86a8c9ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83f0567b.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.2ba603c2.chunk.js",
+    "static/js/2.86a8c9ed.chunk.js",
     "static/css/main.ff1be279.chunk.css",
-    "static/js/main.e383af8e.chunk.js"
+    "static/js/main.75f943eb.chunk.js"
   ]
 }
